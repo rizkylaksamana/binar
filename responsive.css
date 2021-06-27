@@ -1,0 +1,10 @@
+@media screen and (max-width: 992px) {
+  #section-4 {
+    height: auto;
+  }
+
+  #section-4 .wrapper {
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+}
